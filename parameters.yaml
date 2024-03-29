@@ -1,0 +1,5 @@
+parameter_defaults:
+  key_name: glezova
+  image_id: ubuntu-22.04
+  flavor: m1.small
+  network_name: 17eae9b6-2168-4a07-a0d3-66d5ad2a9f0e   # sutdents.net ID
