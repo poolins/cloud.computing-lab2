@@ -1,4 +1,4 @@
- # Запуск сервиса через Jankins
+ # Запуск сервиса через Jenkins
 
  > Технологии: OpenStack, Jenkins, HashiCorp Vault
  
